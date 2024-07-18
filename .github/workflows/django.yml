@@ -2,9 +2,9 @@ name: Django CI/CD
 
 on:
   push:
-    branches: [ "hw_16_2" ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ "hw_16_2" ]
+    branches: [ "main" ]
 
 jobs:
   build:
