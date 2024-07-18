@@ -1,0 +1,202 @@
+[
+  {
+    "model": "users.user",
+    "pk": 3,
+    "fields": {
+      "username": "alexsmith",
+      "first_name": "Alex",
+      "last_name": "Smith",
+      "email": "alex.smith@example.com",
+      "phone": "5551234567",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-02-15T00:00:00+00:00",
+      "last_login": "2023-07-20T00:00:00Z",
+      "updated_at": "2023-07-20T00:00:00+00:00",
+      "deleted_at": null,
+      "deleted": false,
+      "project": 2,
+      "position": "Developer"
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 4,
+    "fields": {
+      "username": "emilybrown",
+      "first_name": "Emily",
+      "last_name": "Brown",
+      "email": "emily.brown@example.com",
+      "phone": "5559876543",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2023-04-10T00:00:00+00:00",
+      "last_login": "2023-07-18T00:00:00Z",
+      "updated_at": "2023-07-18T00:00:00+00:00",
+      "deleted_at": null,
+      "deleted": false,
+      "project": 4,
+      "position": "Manager"
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 5,
+    "fields": {
+      "username": "michaeljones",
+      "first_name": "Michael",
+      "last_name": "Jones",
+      "email": "michael.jones@example.com",
+      "phone": "5552345678",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-05-20T00:00:00+00:00",
+      "last_login": "2023-07-22T00:00:00Z",
+      "updated_at": "2023-07-22T00:00:00+00:00",
+      "deleted_at": null,
+      "deleted": false,
+      "project": 1,
+      "position": "Consultant"
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 6,
+    "fields": {
+      "username": "sarahwilson",
+      "first_name": "Sarah",
+      "last_name": "Wilson",
+      "email": "sarah.wilson@example.com",
+      "phone": "5558765432",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2023-06-05T00:00:00+00:00",
+      "last_login": "2023-07-19T00:00:00Z",
+      "updated_at": "2023-07-19T00:00:00+00:00",
+      "deleted_at": null,
+      "deleted": false,
+      "project": 3,
+      "position": "Administrator"
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 7,
+    "fields": {
+      "username": "kevinmartinez",
+      "first_name": "Kevin",
+      "last_name": "Martinez",
+      "email": "kevin.martinez@example.com",
+      "phone": "5557654321",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-01-28T00:00:00+00:00",
+      "last_login": "2023-07-21T00:00:00Z",
+      "updated_at": "2023-07-21T00:00:00+00:00",
+      "deleted_at": null,
+      "deleted": false,
+      "project": 4,
+      "position": "Analyst"
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 8,
+    "fields": {
+      "username": "ameliagarcia",
+      "first_name": "Amelia",
+      "last_name": "Garcia",
+      "email": "amelia.garcia@example.com",
+      "phone": "5556543210",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2023-03-15T00:00:00+00:00",
+      "last_login": "2023-07-20T00:00:00Z",
+      "updated_at": "2023-07-20T00:00:00+00:00",
+      "deleted_at": null,
+      "deleted": false,
+      "project": 3,
+      "position": "Engineer"
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 9,
+    "fields": {
+      "username": "jackwilson",
+      "first_name": "Jack",
+      "last_name": "Wilson",
+      "email": "jack.wilson@example.com",
+      "phone": "5553210987",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-02-10T00:00:00+00:00",
+      "last_login": "2023-07-23T00:00:00Z",
+      "updated_at": "2023-07-23T00:00:00+00:00",
+      "deleted_at": null,
+      "deleted": false,
+      "project": 2,
+      "position": "Developer"
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 10,
+    "fields": {
+      "username": "oliviajohnson",
+      "first_name": "Olivia",
+      "last_name": "Johnson",
+      "email": "olivia.johnson@example.com",
+      "phone": "5554321098",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2023-04-20T00:00:00+00:00",
+      "last_login": "2023-07-17T00:00:00Z",
+      "updated_at": "2023-07-17T00:00:00+00:00",
+      "deleted_at": null,
+      "deleted": false,
+      "project": 1,
+      "position": "Manager"
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 11,
+    "fields": {
+      "username": "ethanmiller",
+      "first_name": "Ethan",
+      "last_name": "Miller",
+      "email": "ethan.miller@example.com",
+      "phone": "5557890123",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-05-05T00:00:00+00:00",
+      "last_login": "2023-07-18T00:00:00Z",
+      "updated_at": "2023-07-18T00:00:00+00:00",
+      "deleted_at": null,
+      "deleted": false,
+      "project": 4,
+      "position": "Consultant"
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 12,
+    "fields": {
+      "username": "chloewilson",
+      "first_name": "Chloe",
+      "last_name": "Wilson",
+      "email": "chloe.wilson@example.com",
+      "phone": "5552109876",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2023-06-15T00:00:00+00:00",
+      "last_login": "2023-07-19T00:00:00Z",
+      "updated_at": "2023-07-19T00:00:00+00:00",
+      "deleted_at": null,
+      "deleted": false,
+      "project": 3,
+      "position": "Administrator"
+    }
+  }
+]
